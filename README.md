@@ -22,4 +22,5 @@ I am passionate about leveraging cloud technologies to build scalable and reliab
 Feel free to connect with me to discuss collaborations, new technologies, or anything related to DevOps and cloud infrastructure!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-TaoufikAITALLA-blue)](https://www.linkedin.com/in/taoufik-aitalla/)
 
-
+### status 
+[![CI](https://github.com/TaoufikAITALLA/TaoufikAITALLA/actions/workflows/blank.yml/badge.svg)](https://github.com/TaoufikAITALLA/TaoufikAITALLA/actions/workflows/blank.yml)
