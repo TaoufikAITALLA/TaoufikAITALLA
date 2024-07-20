@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on projects related to cloud infrastructure, CI/CD pipelines, and automation scripts.
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/taoufik-aitalla/) | [Twitter](https://twitter.com/TaoufikAITALLA)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/taoufik-aitalla/) 
 
 ### About Me
 
