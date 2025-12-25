@@ -91,7 +91,7 @@ Aggressive:    MSFT 50% / Broadcom 50%
 2. **Set Target Allocation**: Decide on risk tolerance (see allocation strategy above)
 3. **Establish Entry Points**: 
    - MSFT: Consider buying if P/E < 30 and Azure growth > 25%
-   - Broadcom: Consider buying if P/E < 25 and AI chip demand is growing
+   - Broadcom: Consider buying if P/E < 25 and revenue growth > 15%
 4. **Implement Strategy**: Choose between DCA or strategic buying on dips
 
 #### Long-Term Monitoring:
@@ -107,8 +107,8 @@ Aggressive:    MSFT 50% / Broadcom 50%
 - **Broadcom**: Consider 20-25% trailing stop (more volatile)
 
 #### Position Sizing:
-- Never put more than 5-10% of total portfolio in a single stock
-- Combined MSFT + Broadcom shouldn't exceed 15-20% of portfolio (diversification)
+- Never put more than 10% of total portfolio in a single stock
+- Combined MSFT + Broadcom shouldn't exceed 20% of total portfolio (ensure diversification across sectors)
 
 ## ⚠️ Important Disclaimer
 
